@@ -10,12 +10,15 @@ Here, in this project, we try to write codes for all types of data structures as
 * Matrix Multiplication
 
 Problem Description:
+
 Given 2 user input matrix, figure out the matrix multiplication of the matrices (if possible) and return the resultant matrix.
 
 Input:
 
 A -> a (m * n) matrix
+
 B -> a (p * q) matrix
+
 Output:
 
 C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
