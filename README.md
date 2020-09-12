@@ -43,3 +43,4 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 * Count the number of nodes in a list.
 * Search for a number in the list.
 * Find the root n-th node in the list (in one scan).
+* Detect and remove a loop from the linked list.
