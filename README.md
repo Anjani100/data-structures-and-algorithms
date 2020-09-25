@@ -67,7 +67,7 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Check if an array is stack sortable
 - Implement Queue using Stacks
 
-####
+#### Queue
 - Create a queue
 - Display a queue
 - Enqueue
