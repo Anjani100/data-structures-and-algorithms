@@ -66,3 +66,17 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Check if a queue can be sorted into another queue using a stack
 - Check if an array is stack sortable
 - Implement Queue using Stacks
+
+####
+- Create a queue
+- Display a queue
+- Enqueue
+- Dequeue
+- LRU Cache Implementation
+- Implement Stack using Queues
+- Efficiently implement k Queues in a single array
+- Deque using Circular array
+- Implement Stack and Queue using Deque
+- Priority Queue using Doubly Linked List
+- Reversing a Queue
+- Sort a Queue
