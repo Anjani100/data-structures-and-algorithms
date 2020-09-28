@@ -44,3 +44,39 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 * Search for a number in the list.
 * Find the root n-th node in the list (in one scan).
 * Detect and remove a loop from the linked list.
+
+#### Stack
+- Create a stack
+- Display a stack
+- Push an element in stack
+- Pop an element in stack
+- Infix to Postfix conversion
+- Infix to Prefix conversion
+- Prefix to Infix
+- Prefix to Postfix
+- Postfix to Prefix
+- Postfix to Infix
+- Tower of Hanoi using Stack (no recursion)
+- Reverse a stack using recursion
+- Sort a stack using recursion
+- Sort a stack using a temporary stack
+- Reverse a stack without using extra space in O(n)
+- Delete middle element of a stack
+- Sorting array using Stacks
+- Check if a queue can be sorted into another queue using a stack
+- Check if an array is stack sortable
+- Implement Queue using Stacks
+
+#### Queue
+- Create a queue
+- Display a queue
+- Enqueue
+- Dequeue
+- LRU Cache Implementation
+- Implement Stack using Queues
+- Efficiently implement k Queues in a single array
+- Deque using Circular array
+- Implement Stack and Queue using Deque
+- Priority Queue using Doubly Linked List
+- Reversing a Queue
+- Sort a Queue
