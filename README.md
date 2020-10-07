@@ -82,19 +82,19 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Sort a Queue
 #### Tree
 ###### Binary Search Tree (Using Recursion)
-- Insertion a value in binary search tree
+- Insert a value in Binary Search Tree
 - Preorder tree traversal
 - Postorder tree traversal
 - Inorder tree traversal
-- Searching in a binary search tree
-- Getting minimum and maxmimum value in binary search tree
+- Searching in a Binary Search Tree
+- Getting minimum and maxmimum value in Binary Search Tree
 ###### AVL tree
-- Insertion of value in avl tree
-- Preorder traversal of the constructed avl tree after insertion
-- Preorder traversal of the constructed avl tree after deletion
-- Deletion of value from avl tree
+- Insert an element in an AVL Tree
+- Preorder traversal
+- Inorder traversal
+- Deletion of value from AVL Tree
 ###### Threaded Binary Search Tree
-- Insertion in threaded binary tree
+- Insertion in Threaded Binary Tree
 #### Graph
 - Representation of DFS graph
 - Representation of BFS graph
