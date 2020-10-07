@@ -80,7 +80,8 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Priority Queue using Doubly Linked List
 - Reversing a Queue
 - Sort a Queue
-#### Binary Search Tree(Using Recursion)
+#### Tree
+###### Binary Search Tree (Using Recursion)
 - Insertion a value in binary search tree
 - Preorder tree traversal
 - Postorder tree traversal
