@@ -126,10 +126,10 @@ Here is the list of data structures that we will write the codes for in the upco
 ##### List
 - Memory Efficient DLL
 - XOR Linked List
-###### Skip List
-  - Insertion
-  - Searching
-  - Deletion
+  ###### Skip List
+    - Insertion
+    - Searching
+    - Deletion
 - Self-Organizing List
 - Unrolled Linked List
 
