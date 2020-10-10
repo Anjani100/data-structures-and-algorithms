@@ -161,3 +161,35 @@ Here is the list of data structures that we will write the codes for in the upco
 - Ukkonen’s Suffix Tree Construction
 - Generalized Suffix Tree
 - Suffix Tree Application
+
+##### Splay Tree
+- Insert
+- Search
+
+##### Red Black Tree
+- Insertion
+- Deletion
+
+##### K Dimensional Tree
+- Search & Insertion
+- Find the minimum value
+- Deletion
+
+#### Misc
+
+- Treap (A Randomized Binary Search Tree)
+- Ternary Search Tree
+- Interval Tree
+- Implement LRU Cache
+- Sort numbers stored on different machines
+- Find the k most frequent words from a file
+- Given a sequence of words, print all anagrams together
+- Tournament Tree (Winner Tree) and Binary Heap
+- Decision Trees – Fake (Counterfeit) Coin Puzzle (12 Coin Puzzle)
+- Spaghetti Stack
+- Data Structure for Dictionary and Spell Checker?
+- Cartesian Tree
+- Cartesian Tree Sorting
+- Sparse Set
+- Centroid Decomposition of Tree
+- Gomory-Hu Tree
