@@ -26,26 +26,28 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 
 <details>
 <summary>Linked List</summary
-* Create a linked list.<br>
-* Display a linked list.<br>
-- Insert at the beginning of the linked list.<br>
-- Insert at the end of the linked list.<br>
-- Insert element after a particular value in the linked list.<br>
-- Insert element before a particular value in the linked list.<br>
-- Insert element at the k-th position in the linked list.<br>
-- Delete from the beginning of the linked list.<br>
-- Delete from the end of the linked list.<br>
-- Delete user inputted elements from the linked list.<br>
-- Delete after a particular value from the linked list.<br>
-- Delete before a particular value from the linked list.<br>
-- Delete at the k-th position from the linked list.<br>
-- Delete the entire list.<br>
-- Sort the entire list.<br>
-- Reverse a list.<br>
-- Count the number of nodes in a list.<br>
-- Search for a number in the list.<br>
-- Find the root n-th node in the list (in one scan).<br>
-- Detect and remove a loop from the linked list.<br>
+  <pre>
+    * Create a linked list.<br>
+    * Display a linked list.<br>
+    - Insert at the beginning of the linked list.<br>
+    - Insert at the end of the linked list.<br>
+    - Insert element after a particular value in the linked list.<br>
+    - Insert element before a particular value in the linked list.<br>
+    - Insert element at the k-th position in the linked list.<br>
+    - Delete from the beginning of the linked list.<br>
+    - Delete from the end of the linked list.<br>
+    - Delete user inputted elements from the linked list.<br>
+    - Delete after a particular value from the linked list.<br>
+    - Delete before a particular value from the linked list.<br>
+    - Delete at the k-th position from the linked list.<br>
+    - Delete the entire list.<br>
+    - Sort the entire list.<br>
+    - Reverse a list.<br>
+    - Count the number of nodes in a list.<br>
+    - Search for a number in the list.<br>
+    - Find the root n-th node in the list (in one scan).<br>
+    - Detect and remove a loop from the linked list.<br>
+  </pre>
 </details>
 
 
