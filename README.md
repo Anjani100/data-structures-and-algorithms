@@ -26,8 +26,8 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 
 <details>
 <summary>Linked List</summary
-- Create a linked list.<br>
-- Display a linked list.<br>
+* Create a linked list.<br>
+* Display a linked list.<br>
 - Insert at the beginning of the linked list.<br>
 - Insert at the end of the linked list.<br>
 - Insert element after a particular value in the linked list.<br>
