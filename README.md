@@ -25,8 +25,7 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 
 
 <details>
-<summary>Linked List</summary>
-<pre>
+<summary>Linked List</summary
 - Create a linked list.<br>
 - Display a linked list.<br>
 - Insert at the beginning of the linked list.<br>
@@ -47,7 +46,6 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Search for a number in the list.<br>
 - Find the root n-th node in the list (in one scan).<br>
 - Detect and remove a loop from the linked list.<br>
-</pre>
 </details>
 
 
