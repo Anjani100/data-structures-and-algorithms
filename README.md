@@ -23,29 +23,37 @@ Output:
 
 C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 
-#### Linked List
-* Create a linked list.
-* Display a linked list.
-* Insert at the beginning of the linked list.
-* Insert at the end of the linked list.
-* Insert element after a particular value in the linked list.
-* Insert element before a particular value in the linked list.
-* Insert element at the k-th position in the linked list.
-* Delete from the beginning of the linked list.
-* Delete from the end of the linked list.
-* Delete user inputted elements from the linked list.
-* Delete after a particular value from the linked list.
-* Delete before a particular value from the linked list.
-* Delete at the k-th position from the linked list.
-* Delete the entire list.
-* Sort the entire list.
-* Reverse a list.
-* Count the number of nodes in a list.
-* Search for a number in the list.
-* Find the root n-th node in the list (in one scan).
-* Detect and remove a loop from the linked list.
 
-#### Stack
+<details>
+<summary>Linked List</summary>
+<pre>
+- Create a linked list.<br>
+- Display a linked list.<br>
+- Insert at the beginning of the linked list.<br>
+- Insert at the end of the linked list.<br>
+- Insert element after a particular value in the linked list.<br>
+- Insert element before a particular value in the linked list.<br>
+- Insert element at the k-th position in the linked list.<br>
+- Delete from the beginning of the linked list.<br>
+- Delete from the end of the linked list.<br>
+- Delete user inputted elements from the linked list.<br>
+- Delete after a particular value from the linked list.<br>
+- Delete before a particular value from the linked list.<br>
+- Delete at the k-th position from the linked list.<br>
+- Delete the entire list.<br>
+- Sort the entire list.<br>
+- Reverse a list.<br>
+- Count the number of nodes in a list.<br>
+- Search for a number in the list.<br>
+- Find the root n-th node in the list (in one scan).<br>
+- Detect and remove a loop from the linked list.<br>
+</pre>
+</details>
+
+
+<details>
+<summary>Stack</summary>
+<pre>
 - Create a stack
 - Display a stack
 - Push an element in stack
@@ -66,8 +74,12 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Check if a queue can be sorted into another queue using a stack
 - Check if an array is stack sortable
 - Implement Queue using Stacks
+</pre>
+</details>
 
-#### Queue
+<details>
+<summary>Queue</summary>
+<pre>
 - Create a queue
 - Display a queue
 - Enqueue
@@ -80,80 +92,125 @@ C -> a (m * q) matrix if n = p, otherwise, Not Divisible!
 - Priority Queue using Doubly Linked List
 - Reversing a Queue
 - Sort a Queue
+</pre>
+</details>
 
-#### Tree
-###### Binary Search Tree (Using Recursion)
+<details>
+<summary>Tree</summary>
+Binary Search Tree (Using Recursion)
+<pre>
 - Insert a value in Binary Search Tree
 - Preorder tree traversal
 - Postorder tree traversal
 - Inorder tree traversal
 - Searching in a Binary Search Tree
 - Getting minimum and maxmimum value in Binary Search Tree
-###### AVL tree
+</pre>
+AVL tree
+<pre>
 - Insert an element in an AVL Tree
 - Preorder traversal
 - Inorder traversal
 - Deletion of value from AVL Tree
-###### Threaded Binary Search Tree
+</pre>
+Threaded Binary Search Tree
+<pre>
 - Insertion in Threaded Binary Tree
+</pre>
+</details>
 
-#### Graph
+<details>
+<summary>Graph</summary>
+<pre>
 - Representation of DFS graph
 - Representation of BFS graph
+</pre>
+</details>
 
+#### Here is the list of data structures that we will write the codes for in the upcoming days:
 
-Here is the list of data structures that we will write the codes for in the upcoming days:
-
-#### M-way Search Tree
+<details>
+<summary>M-way Search Tree</summary>
+<pre>
 - Searching
 - Insertion
 - Deletion
+</pre>
+</details>
 
-#### B Tree
+<details>
+<summary>B Tree</summary>
+<pre>
 - Insertion
 - Deletion
+</pre>
+</details>
 
-#### Graph
+<details>
+<summary>Graph</summary>
+<pre>
 - Detect cycle in a Directed graph
 - Detect cycle in a Undirected graph
 - Longest Path in a Directed Acyclic Graph
 - Topological Sorting
 - Check whether a given graph is Bipartite or not
 - Snake and Ladder Problem
+</pre>
+</details>
 
 #### Advanced Data Structure
 
-##### List
+<details>
+<summary>List</summary>
+<pre>
 - Memory Efficient DLL
 - XOR Linked List
-  ###### Skip List
-    - Insertion
-    - Searching
-    - Deletion
 - Self-Organizing List
 - Unrolled Linked List
+</pre>
+Skip List
+<pre>
+- Insertion
+- Searching
+- Deletion
+</pre>
+</details>
 
-##### Segment Tree
+<details>
+<summary>Segment Tree</summary>
+<pre>
 - Sum of given range
 - Range Minimum Query
 - Lazy Propagation
 - Persistent Segment Tree
+</pre>
+</details>
 
-##### Trie
+<details>
+<summary>Trie</summary>
+<pre>
 - Insert
 - Search
 - Delete
 - Longest Prefix Matching
 - Implement Reverse DNS Look Up Cache
 - Implement Forward DNS Look Up Cache
+</pre>
+</details>
 
-##### Binary Indexed Tree or Fenwick Tree
+<details>
+<summary>Binary Indexed Tree or Fenwick Tree</summary>
+<pre>
 - Representation of Binary Indexed Tree
 - Two Dimensional Binary Indexed Tree or Fenwick Tree
 - Range Updates and Point Queries
 - Range Updates and Range Queries
+</pre>
+</details>
 
-##### Suffix Array and Suffix Tree
+<details>
+<summary>Suffix Array and Suffix Tree</summary>
+<pre>
 - Create a Suffix Array
 - Create a Suffix Array in O(nLogn)
 - kasai’s Algorithm for Construction of LCP array from Suffix Array
@@ -161,22 +218,37 @@ Here is the list of data structures that we will write the codes for in the upco
 - Ukkonen’s Suffix Tree Construction
 - Generalized Suffix Tree
 - Suffix Tree Application
+</pre>
+</details>
 
-##### Splay Tree
+<details>
+<summary>Splay Tree</summary>
+<pre>
 - Insert
 - Search
+</pre>
+</details>
 
-##### Red Black Tree
+<details>
+<summary>Red Black Tree</summary>
+<pre>
 - Insertion
 - Deletion
+</pre>
+</details>
 
-##### K Dimensional Tree
+<details>
+<summary>K Dimensional Tree</summary>
+<pre>
 - Search & Insertion
 - Find the minimum value
 - Deletion
+</pre>
+</details>
 
-#### Misc
-
+<details>
+<summary>Misc</summary>
+<pre>
 - Treap (A Randomized Binary Search Tree)
 - Ternary Search Tree
 - Interval Tree
@@ -193,3 +265,5 @@ Here is the list of data structures that we will write the codes for in the upco
 - Sparse Set
 - Centroid Decomposition of Tree
 - Gomory-Hu Tree
+</pre>
+</details>
