@@ -270,6 +270,12 @@ Skip List
 </pre>
 </details>
 
+#### Hashing & Heap
+
+* Linear Probing
+* Quadratic Probing
+* Heapification
+
 ### Algorithms
 
 #### Searching
@@ -289,6 +295,7 @@ Skip List
 * Merge Sort
 * Quick Sort
 * Counting Sort
+* Heap Sort
 * Radix Sort
 * Bucket Sort
 * ShellSort
