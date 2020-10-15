@@ -281,7 +281,7 @@ Skip List
 #### Searching
 
 * Linear Search (Sequential Search)
-* Bubble Search
+* Binary Search
 * Interpolation Search
 * Jump Search
 * Exponential Search
