@@ -5,6 +5,8 @@ Programs which create and manipulate different data structures and algorithms.
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?style=flat-square)
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python?color=red&style=flat-square)
 
+### Data Structures
+
 Here, in this project, we try to write codes for all types of data structures as well as algorithms in Python. Below is the list of data structures we have written code for till now:
 #### Matrix
 * Matrix Multiplication
@@ -267,3 +269,59 @@ Skip List
 - Gomory-Hu Tree
 </pre>
 </details>
+
+### Algorithms
+
+#### Searching
+
+* Linear Search (Sequential Search)
+* Bubble Search
+* Interpolation Search
+* Jump Search
+* Exponential Search
+* Ternary Search
+
+#### Sorting
+
+* Bubble Sort (Optimized version)
+* Insertion Sort
+* Selection Sort
+* Merge Sort
+* Quick Sort
+* Counting Sort
+* Radix Sort
+* Bucket Sort
+* ShellSort
+* Comb Sort
+* Pigeonhole Sort
+* Cycle Sort
+
+#### Greedy Algorithms
+
+* Fractional Knapsack
+* Huffman Code
+* Kruskal’s Minimum Spanning Tree Algorithm
+* Activity Selection Problem
+* Efficient Huffman Coding for Sorted Input
+* Prim’s Minimum Spanning Tree Algorithm
+* Prim’s MST for Adjacency List Representation
+* Dijkstra’s Shortest Path Algorithm
+* Dijkstra’s Algorithm for Adjacency List Representation
+* Job Sequencing Problem
+* Quiz on Greedy Algorithms
+* Greedy Algorithm to find Minimum number of Coins
+* K Centers Problem
+* Minimum Number of Platforms Required for a Railway/Bus Station
+
+#### Dynamic Programming
+
+* Multistage Graph Problem
+* All pairs Shortest Path (Floyd-Warshall)
+* Matrix Chain Multiplication
+* Optimal Binary Search Tree
+* Amortized Analysis
+* Potential Method
+* Topological Sort
+* Strongly Connected Components (SCC)
+* Dijkstra's Algorithm
+* Bellman-Ford Algorithm
