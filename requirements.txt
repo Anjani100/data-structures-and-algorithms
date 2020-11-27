@@ -2,4 +2,4 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.1
-notebook==6.0.2
+notebook==6.1.5
